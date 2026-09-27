@@ -1,3 +1,5 @@
+<p><img src="orca.svg" width="64" height="64" alt="Orca logo"></p>
+
 # PeakWhale™ Orca | Enterprise Fraud Defense Platform
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
